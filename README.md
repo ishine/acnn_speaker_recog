@@ -33,7 +33,6 @@ You need to adjust the training parameters in yaml before training.
 Network              | Top-1 (%) |  Top-1 (%) | EER (%) | C_det (%) |
 ---------------------|-----------|------------|---------|-----------|
 Adaptive VGG-M (N=18)| 86.51     | 95.31      | 5.68    | 0.510     |
----------------------|-----------|------------|---------|-----------|
 Adaptive ResNet18 (N=18)| 85.84     | 95.29      | 6.18    | 0.589     |
 
 ## Pretrained models
