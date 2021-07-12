@@ -32,8 +32,8 @@ You need to adjust the training parameters in yaml before training.
 #### Results:
 Network              | Top-1 (%) |  Top-1 (%) | EER (%) | C_det (%) |
 ---------------------|-----------|------------|---------|-----------|
-Adaptive VGG-M (N=18)| 86.51     | 95.31      | 5.68    | 0.510     |
-Adaptive ResNet18 (N=18)| 85.84     | 95.29      | 6.18    | 0.589     |
+ Adaptive VGG-M (N=18)|   86.51 |   95.31      | 5.68    | 0.510     |
+Adaptive ResNet18 (N=18)|   85.84 |   95.29      | 6.18    | 0.589     |
 
 ## Pretrained models
 There are pretrained models in 'pretrained_model'. The example code for verification using the pretrained models is not provided separately.
