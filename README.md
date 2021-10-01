@@ -1,9 +1,9 @@
 # ACNN for Text-Independent Speaker Recognition
 
-Official implementation of **Adaptive Convolutional Neural Network for Text-Independent Speaker Recognition**<br>
+Official implementation of **Adaptive Convolutional Neural Network for Text-Independent Speaker Recognition**<br>(https://dx.doi.org/10.21437/Interspeech.2021-65)
 by Seong-Hu Kim, Yong-Hwa Park @ Human Lab, Mechanical Engineering Department, KAIST
 
-Accepted paper in [InterSpeech 2021](https://www.interspeech2021.org/), and paper will be available.
+Accepted paper in [InterSpeech 2021](https://www.interspeech2021.org/).
 
 This code was written mainly with reference to [baseline code](https://github.com/Jungjee/RawNet).
 
